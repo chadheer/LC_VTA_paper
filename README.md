@@ -3,7 +3,7 @@ DOI: https://doi.org/10.7554/eLife.95213.4
 Chad Heer, Mark Sheffield
 The Department of Neurobiology, The University of Chicago, Chicago, United States
 
-All code used in the above publication is contained here. 
+All code used in the above publication is contained here and was written in Matlab2022b. 
 
 INSTRUCTIONS:
 Behavioral data was first aligned to imaging data using load_beh_shef_withImagesynccorrected.m. 'Good' and 'bad' running periods were determined using 'remove_bad_behavior_ver2_withoutvelocity.m'. 
